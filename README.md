@@ -1,4 +1,4 @@
-Todo List示例  
+Todo List示例：  
 渲染一个todo List  
 可以添加新的 todo 事项  
 可以区分已完成和未完成事项  
